@@ -11,7 +11,7 @@ stage('Build')
 stage('Test') 
 {
             steps {
-                sh './PES2UG20CS-1'
+                sh './PES2UG20CS806-1'
             }
         }
     }
