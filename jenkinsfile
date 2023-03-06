@@ -8,7 +8,7 @@ stage('Build')
                 echo "Build Successful"
             }
         }
-stage('Test') 
+stag('Test') 
 {
             steps {
                 sh './PES2UG20CS806-1'
